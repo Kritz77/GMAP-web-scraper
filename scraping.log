@@ -1,0 +1,575 @@
+2024-06-10 10:33:20,788 - INFO - Opening Google Maps...
+2024-06-10 10:33:23,666 - INFO - Google Maps loaded successfully
+2024-06-10 10:33:48,147 - INFO - Opening Google Maps...
+2024-06-10 10:33:50,543 - INFO - Google Maps loaded successfully
+2024-06-10 10:34:11,831 - INFO - Searching for: fun places in chennai
+2024-06-10 10:34:32,482 - ERROR - Search timed out.
+2024-06-10 10:35:04,866 - INFO - Searching for: srm college in chennai
+2024-06-10 10:35:25,423 - ERROR - Search timed out.
+2024-06-10 10:35:35,584 - INFO - Exiting...
+2024-06-10 10:35:38,908 - INFO - Browser closed
+2024-06-10 10:39:22,523 - INFO - ====== WebDriver manager ======
+2024-06-10 10:39:24,156 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 10:39:24,812 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 10:39:25,415 - INFO - There is no [win64] chromedriver "125.0.6422.141" for browser google-chrome "125.0.6422" in cache
+2024-06-10 10:39:25,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 10:39:26,724 - INFO - WebDriver version 125.0.6422.141 selected
+2024-06-10 10:39:26,739 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-06-10 10:39:26,739 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.141/win32/chromedriver-win32.zip
+2024-06-10 10:39:27,626 - INFO - Driver downloading response is 200
+2024-06-10 10:39:28,637 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 10:39:29,410 - INFO - Driver has been saved in cache [C:\Users\krith\.wdm\drivers\chromedriver\win64\125.0.6422.141]
+2024-06-10 10:39:31,349 - INFO - Opening Google Maps...
+2024-06-10 10:39:36,495 - INFO - Google Maps loaded successfully
+2024-06-10 10:39:58,764 - INFO - Searching for: fun places in chennai
+2024-06-10 10:40:19,587 - ERROR - Search timed out.
+2024-06-10 10:40:44,847 - INFO - Searching for: fun places in chennai
+2024-06-10 10:41:05,334 - ERROR - Search timed out.
+2024-06-10 10:44:25,113 - INFO - ====== WebDriver manager ======
+2024-06-10 10:44:26,485 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 10:44:27,074 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 10:44:27,688 - INFO - Driver [C:\Users\krith\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-10 10:44:28,948 - INFO - Opening Google Maps...
+2024-06-10 10:44:31,112 - INFO - Google Maps loaded successfully
+2024-06-10 10:44:47,416 - INFO - Searching for: fun places in chennai
+2024-06-10 10:45:08,233 - ERROR - Search timed out.
+2024-06-10 12:36:29,214 - INFO - Opening Google Maps...
+2024-06-10 12:36:33,973 - INFO - Google Maps loaded successfully
+2024-06-10 12:36:45,373 - INFO - Searching for: fun spot in chennai
+2024-06-10 12:37:06,046 - ERROR - Search timed out.
+2024-06-10 12:37:41,818 - INFO - Searching for: IT  companies in chennai
+2024-06-10 12:38:02,309 - ERROR - Search timed out.
+2024-06-10 12:38:06,469 - INFO - Exiting...
+2024-06-10 12:38:08,590 - INFO - Browser closed
+2024-06-10 12:42:54,210 - INFO - ====== WebDriver manager ======
+2024-06-10 12:42:55,610 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 12:42:56,222 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 12:42:56,835 - INFO - Driver [C:\Users\krith\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-10 12:52:34,840 - INFO - ====== WebDriver manager ======
+2024-06-10 12:52:36,305 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 12:52:36,911 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-10 12:52:37,517 - INFO - Driver [C:\Users\krith\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+2024-06-10 13:06:31,951 - INFO - Opening Google Maps...
+2024-06-10 13:06:33,403 - INFO - Google Maps loaded successfully
+2024-06-10 13:08:06,431 - INFO - Opening Google Maps...
+2024-06-10 13:08:08,078 - INFO - Google Maps loaded successfully
+2024-06-10 13:09:08,603 - INFO - Searching for: best fun places in chennai
+2024-06-10 13:09:29,235 - ERROR - Search timed out.
+2024-06-10 13:09:58,102 - INFO - Searching for: movie theatres near me
+2024-06-10 13:09:58,105 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DD341F52+60322]
+	(No symbol) [0x00007FF7DD2BCEC9]
+	(No symbol) [0x00007FF7DD177EBA]
+	(No symbol) [0x00007FF7DD14D5A5]
+	(No symbol) [0x00007FF7DD1F36B7]
+	(No symbol) [0x00007FF7DD20B331]
+	(No symbol) [0x00007FF7DD1EBFC3]
+	(No symbol) [0x00007FF7DD1B9617]
+	(No symbol) [0x00007FF7DD1BA211]
+	GetHandleVerifier [0x00007FF7DD6594AD+3301629]
+	GetHandleVerifier [0x00007FF7DD6A36D3+3605283]
+	GetHandleVerifier [0x00007FF7DD699450+3563680]
+	GetHandleVerifier [0x00007FF7DD3F4326+790390]
+	(No symbol) [0x00007FF7DD2C750F]
+	(No symbol) [0x00007FF7DD2C3404]
+	(No symbol) [0x00007FF7DD2C3592]
+	(No symbol) [0x00007FF7DD2B2F9F]
+	BaseThreadInitThunk [0x00007FFF22E3257D+29]
+	RtlUserThreadStart [0x00007FFF24D8AA48+40]
+
+2024-06-10 13:10:00,263 - INFO - Browser closed
+2024-06-10 13:10:23,505 - INFO - Opening Google Maps...
+2024-06-10 13:10:25,456 - INFO - Google Maps loaded successfully
+2024-06-10 13:10:35,419 - INFO - Searching for: movie theatres near me
+2024-06-10 13:10:56,311 - ERROR - Search timed out.
+2024-06-10 13:10:56,313 - INFO - Searching for: 
+2024-06-10 13:11:16,604 - ERROR - Search timed out.
+2024-06-10 13:11:16,604 - INFO - Searching for: 
+2024-06-10 13:11:31,867 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7DD341F52+60322]
+	(No symbol) [0x00007FF7DD2BCEC9]
+	(No symbol) [0x00007FF7DD177EBA]
+	(No symbol) [0x00007FF7DD14D5A5]
+	(No symbol) [0x00007FF7DD1F36B7]
+	(No symbol) [0x00007FF7DD20B331]
+	(No symbol) [0x00007FF7DD1EBFC3]
+	(No symbol) [0x00007FF7DD1B9617]
+	(No symbol) [0x00007FF7DD1BA211]
+	GetHandleVerifier [0x00007FF7DD6594AD+3301629]
+	GetHandleVerifier [0x00007FF7DD6A36D3+3605283]
+	GetHandleVerifier [0x00007FF7DD699450+3563680]
+	GetHandleVerifier [0x00007FF7DD3F4326+790390]
+	(No symbol) [0x00007FF7DD2C750F]
+	(No symbol) [0x00007FF7DD2C3404]
+	(No symbol) [0x00007FF7DD2C3592]
+	(No symbol) [0x00007FF7DD2B2F9F]
+	BaseThreadInitThunk [0x00007FFF22E3257D+29]
+	RtlUserThreadStart [0x00007FFF24D8AA48+40]
+
+2024-06-10 13:11:34,054 - INFO - Browser closed
+2024-06-10 13:54:14,870 - INFO - Opening Google Maps...
+2024-06-10 13:54:17,074 - INFO - Google Maps loaded successfully
+2024-06-10 13:54:28,398 - INFO - Searching for: chennai movie theatres
+2024-06-10 13:54:33,776 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF65F851F52+60322]
+	(No symbol) [0x00007FF65F7CCEC9]
+	(No symbol) [0x00007FF65F687EBA]
+	(No symbol) [0x00007FF65F65D5A5]
+	(No symbol) [0x00007FF65F7036B7]
+	(No symbol) [0x00007FF65F71B331]
+	(No symbol) [0x00007FF65F6FBFC3]
+	(No symbol) [0x00007FF65F6C9617]
+	(No symbol) [0x00007FF65F6CA211]
+	GetHandleVerifier [0x00007FF65FB694AD+3301629]
+	GetHandleVerifier [0x00007FF65FBB36D3+3605283]
+	GetHandleVerifier [0x00007FF65FBA9450+3563680]
+	GetHandleVerifier [0x00007FF65F904326+790390]
+	(No symbol) [0x00007FF65F7D750F]
+	(No symbol) [0x00007FF65F7D3404]
+	(No symbol) [0x00007FF65F7D3592]
+	(No symbol) [0x00007FF65F7C2F9F]
+	BaseThreadInitThunk [0x00007FFF22E3257D+29]
+	RtlUserThreadStart [0x00007FFF24D8AA48+40]
+
+2024-06-10 13:55:10,667 - INFO - Opening Google Maps...
+2024-06-10 13:55:12,512 - INFO - Google Maps loaded successfully
+2024-06-10 13:55:28,345 - INFO - Searching for: chennai movie theatres
+2024-06-10 13:55:49,290 - ERROR - Search timed out.
+2024-06-11 22:01:39,553 - INFO - Opening Google Maps...
+2024-06-11 22:01:41,869 - INFO - Google Maps loaded successfully
+2024-06-11 22:02:07,775 - INFO - Searching for: new york restaurants
+2024-06-11 22:02:28,353 - ERROR - Search timed out.
+2024-06-11 22:02:49,541 - INFO - Searching for: ooty garden
+2024-06-11 22:03:10,084 - ERROR - Search timed out.
+2024-06-12 13:02:49,033 - INFO - Opening Google Maps...
+2024-06-12 13:02:50,411 - INFO - Google Maps loaded successfully
+2024-06-12 13:03:07,692 - INFO - Searching for: restaurants in new york city
+2024-06-12 13:03:28,311 - ERROR - Search timed out.
+2024-06-12 13:03:49,342 - INFO - Exiting...
+2024-06-12 13:03:51,610 - INFO - Browser closed
+2024-06-12 13:14:11,413 - INFO - Opening Google Maps...
+2024-06-12 13:14:13,632 - INFO - Google Maps loaded successfully
+2024-06-12 13:14:53,563 - INFO - Searching for: dress shops in chennai famous
+2024-06-12 13:15:14,385 - ERROR - Search timed out.
+2024-06-12 13:15:18,458 - INFO - Exiting...
+2024-06-12 13:15:20,891 - INFO - Browser closed
+2024-06-12 13:35:05,907 - INFO - Opening Google Maps...
+2024-06-12 13:35:07,832 - INFO - Google Maps loaded successfully
+2024-06-12 13:35:23,909 - INFO - Searching for: IT companies in chennai
+2024-06-12 13:35:44,418 - ERROR - Search timed out.
+2024-06-12 13:36:27,217 - INFO - Searching for: fun places in chennai
+2024-06-12 13:36:27,220 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75D131F52+60322]
+	(No symbol) [0x00007FF75D0ACEC9]
+	(No symbol) [0x00007FF75CF67EBA]
+	(No symbol) [0x00007FF75CF3D5A5]
+	(No symbol) [0x00007FF75CFE36B7]
+	(No symbol) [0x00007FF75CFFB331]
+	(No symbol) [0x00007FF75CFDBFC3]
+	(No symbol) [0x00007FF75CFA9617]
+	(No symbol) [0x00007FF75CFAA211]
+	GetHandleVerifier [0x00007FF75D4494AD+3301629]
+	GetHandleVerifier [0x00007FF75D4936D3+3605283]
+	GetHandleVerifier [0x00007FF75D489450+3563680]
+	GetHandleVerifier [0x00007FF75D1E4326+790390]
+	(No symbol) [0x00007FF75D0B750F]
+	(No symbol) [0x00007FF75D0B3404]
+	(No symbol) [0x00007FF75D0B3592]
+	(No symbol) [0x00007FF75D0A2F9F]
+	BaseThreadInitThunk [0x00007FFF22E3257D+29]
+	RtlUserThreadStart [0x00007FFF24D8AA48+40]
+
+2024-06-12 13:36:29,352 - INFO - Browser closed
+2024-06-12 14:24:24,799 - INFO - Opening Google Maps...
+2024-06-12 14:24:26,975 - INFO - Google Maps loaded successfully
+2024-06-12 14:24:49,658 - INFO - Searching for: IT companies in olympia
+2024-06-12 14:25:10,347 - ERROR - Search timed out.
+2024-06-12 14:25:36,658 - INFO - Searching for: water based theme parks in chennai
+2024-06-12 14:25:56,737 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.142)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A0EF1F52+60322]
+	(No symbol) [0x00007FF6A0E6CEC9]
+	(No symbol) [0x00007FF6A0D27EBA]
+	(No symbol) [0x00007FF6A0CFD5A5]
+	(No symbol) [0x00007FF6A0DA36B7]
+	(No symbol) [0x00007FF6A0DBB331]
+	(No symbol) [0x00007FF6A0D9BFC3]
+	(No symbol) [0x00007FF6A0D69617]
+	(No symbol) [0x00007FF6A0D6A211]
+	GetHandleVerifier [0x00007FF6A12094AD+3301629]
+	GetHandleVerifier [0x00007FF6A12536D3+3605283]
+	GetHandleVerifier [0x00007FF6A1249450+3563680]
+	GetHandleVerifier [0x00007FF6A0FA4326+790390]
+	(No symbol) [0x00007FF6A0E7750F]
+	(No symbol) [0x00007FF6A0E73404]
+	(No symbol) [0x00007FF6A0E73592]
+	(No symbol) [0x00007FF6A0E62F9F]
+	BaseThreadInitThunk [0x00007FFF22E3257D+29]
+	RtlUserThreadStart [0x00007FFF24D8AA48+40]
+
+2024-06-12 14:25:58,983 - INFO - Browser closed
+2024-06-12 14:26:37,726 - INFO - Opening Google Maps...
+2024-06-12 14:26:39,557 - INFO - Google Maps loaded successfully
+2024-06-12 14:26:49,236 - INFO - Searching for: it companies in chennia
+2024-06-12 14:27:10,109 - ERROR - Search timed out.
+2024-06-12 14:31:59,684 - INFO - Opening Google Maps...
+2024-06-12 14:32:02,708 - INFO - Google Maps loaded successfully
+2024-06-12 14:32:19,222 - INFO - Searching for: it companies in chennai
+2024-06-12 14:32:39,864 - ERROR - Search timed out.
+2024-06-12 14:33:15,781 - INFO - Exiting...
+2024-06-12 14:33:18,072 - INFO - Browser closed
+2024-06-14 10:49:22,899 - INFO - Opening Google Maps...
+2024-06-14 10:49:24,930 - INFO - Google Maps loaded successfully
+2024-06-14 10:49:36,711 - INFO - Searching for: restaurants in chennai
+2024-06-14 10:49:57,149 - ERROR - Search timed out.
+2024-06-14 10:50:41,584 - INFO - Exiting...
+2024-06-14 10:50:43,898 - INFO - Browser closed
+2024-06-14 10:55:43,782 - INFO - Opening Google Maps...
+2024-06-14 10:55:46,204 - INFO - Google Maps loaded successfully
+2024-06-14 10:56:03,417 - INFO - Searching for: nearby restaurants in chennai
+2024-06-14 10:56:24,135 - ERROR - Search timed out.
+2024-06-14 11:02:48,821 - INFO - Opening Google Maps...
+2024-06-14 11:02:50,493 - INFO - Google Maps loaded successfully
+2024-06-14 11:03:20,605 - INFO - Searching for: IT comapanies in guindy
+2024-06-14 11:03:26,173 - INFO - Search results loaded successfully
+2024-06-14 11:03:26,531 - INFO - Title: M8 IT Solutions Pvt Ltd - Software Company in Chennai, Address: 5.0(2), Phone: N/A, Rating: 5.0, Reviews: N/A
+2024-06-14 11:03:28,674 - INFO - Title: KARYA Technologies (India) Pvt Ltd, Address: 3.5(114), Phone: N/A, Rating: 3.5, Reviews: N/A
+2024-06-14 11:03:30,808 - INFO - Title: Quadkast Technologies Private Limited, Address: 5.0(23), Phone: N/A, Rating: 5.0, Reviews: N/A
+2024-06-14 11:03:32,811 - INFO - Data saved to CSV file
+2024-06-14 11:04:50,800 - INFO - Exiting...
+2024-06-14 11:04:53,065 - INFO - Browser closed
+2024-06-14 11:06:39,728 - INFO - Opening Google Maps...
+2024-06-14 11:06:41,960 - INFO - Google Maps loaded successfully
+2024-06-14 11:06:54,829 - INFO - Searching for: it companies in chennai
+2024-06-14 11:06:59,381 - INFO - Search results loaded successfully
+2024-06-14 11:06:59,621 - INFO - Title: NETAXIS IT SOLUTIONS (P) LTD, Address: 4.0(627), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-14 11:07:01,827 - INFO - Title: Geetham Software (P) Limited, Address: 4.6(77), Phone: N/A, Rating: 4.6, Reviews: N/A
+2024-06-14 11:07:03,963 - INFO - Title: Orbitz IT Solution, Address: 4.5(30), Phone: N/A, Rating: 4.5, Reviews: N/A
+2024-06-14 11:07:05,966 - INFO - Data saved to CSV file
+2024-06-14 11:07:36,733 - INFO - Exiting...
+2024-06-14 11:07:38,882 - INFO - Browser closed
+2024-06-14 11:08:47,904 - INFO - Opening Google Maps...
+2024-06-14 11:08:49,646 - INFO - Google Maps loaded successfully
+2024-06-14 11:08:57,846 - INFO - Searching for: Theme parks in chennai
+2024-06-14 11:09:01,985 - INFO - Search results loaded successfully
+2024-06-14 11:09:02,249 - INFO - Title: VGP Universal Kingdom, Address: 4.0(37,203), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-14 11:09:04,570 - INFO - Title: Queensland Amusement Park, Address: 4.0(30,895), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-14 11:09:07,231 - INFO - Title: MGM Dizzee World, Address: 4.0(21,912), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-14 11:09:09,234 - INFO - Data saved to CSV file
+2024-06-14 12:15:06,128 - INFO - Opening Google Maps...
+2024-06-14 12:15:09,159 - INFO - Google Maps loaded successfully
+2024-06-14 12:15:21,500 - INFO - Searching for: hindu temples in chennai
+2024-06-14 12:15:26,756 - INFO - Search results loaded successfully
+2024-06-14 12:15:26,996 - INFO - Title: Ekambaranathar Temple, Address: 4.7(18,831), Phone: N/A, Rating: 4.7, Reviews: N/A
+2024-06-14 12:15:29,091 - INFO - Title: Arulmigu Sri Thiyagarajaswamy Temple, Address: 4.7(5,217), Phone: N/A, Rating: 4.7, Reviews: N/A
+2024-06-14 12:15:31,093 - ERROR - An error occurred: [Errno 13] Permission denied: 'companies.csv'
+2024-06-14 12:15:33,544 - INFO - Browser closed
+2024-06-14 12:16:31,626 - INFO - Opening Google Maps...
+2024-06-14 12:16:34,257 - INFO - Google Maps loaded successfully
+2024-06-14 12:16:45,328 - INFO - Searching for: hotels in new york
+2024-06-14 12:16:50,560 - INFO - Search results loaded successfully
+2024-06-14 12:16:50,958 - INFO - Title: Hyatt Grand Central New York, Address: 4.1(7,658), Phone: N/A, Rating: 4.1, Reviews: N/A
+2024-06-14 12:16:53,048 - INFO - Title: The Manhattan at Times Square Hotel, Address: 3.1(8,313), Phone: N/A, Rating: 3.1, Reviews: N/A
+2024-06-14 12:16:55,916 - INFO - Title: Holiday Inn New York City - Times Square, an IHG Hotel, Address: 4.1(3,227), Phone: N/A, Rating: 4.1, Reviews: N/A
+2024-06-14 12:16:57,918 - INFO - Data saved to CSV file
+2024-06-14 12:17:09,159 - INFO - Exiting...
+2024-06-14 12:17:11,403 - INFO - Browser closed
+2024-06-14 12:57:59,501 - INFO - Opening Google Maps...
+2024-06-14 12:58:01,313 - INFO - Google Maps loaded successfully
+2024-06-14 12:58:08,220 - INFO - Searching for: IT companies in chennai
+2024-06-14 12:58:09,780 - INFO - Search results loaded successfully
+2024-06-14 12:58:10,124 - INFO - Title: Geetham Software (P) Limited, Address: 4.6(77), Phone: N/A, Rating: 4.6, Reviews: N/A
+2024-06-14 12:58:12,217 - INFO - Title: Rytways Software Technologies Private Limited, Address: 4.6(5), Phone: N/A, Rating: 4.6, Reviews: N/A
+2024-06-14 12:58:14,362 - INFO - Title: DOXC, Address: 3.9(7), Phone: N/A, Rating: 3.9, Reviews: N/A
+2024-06-14 12:58:16,400 - INFO - Data saved to CSV file
+2024-06-14 12:58:34,543 - INFO - Exiting...
+2024-06-14 12:58:36,771 - INFO - Browser closed
+2024-06-14 13:06:11,114 - INFO - Opening Google Maps...
+2024-06-14 13:06:13,213 - INFO - Google Maps loaded successfully
+2024-06-14 13:06:26,240 - INFO - Searching for: Movie theatres near me
+2024-06-14 13:06:32,310 - INFO - Search results loaded successfully
+2024-06-14 13:06:32,612 - INFO - Title: Sri Shanmuga Cinema Theatre Chennai, Address: 3.3(1,656), Phone: N/A, Rating: 3.3, Reviews: N/A
+2024-06-14 13:06:34,702 - INFO - Title: AGS Cinemas Villivakkam, Address: 4.0(22,166), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-14 13:06:37,019 - INFO - Title: PVR Cinemas, Perambur, Address: 4.1(3,780), Phone: N/A, Rating: 4.1, Reviews: N/A
+2024-06-14 13:06:39,022 - INFO - Data saved to CSV file
+2024-06-14 13:07:19,009 - INFO - Exiting...
+2024-06-14 13:07:21,260 - INFO - Browser closed
+2024-06-14 13:11:23,277 - INFO - Opening Google Maps...
+2024-06-14 13:11:24,985 - INFO - Google Maps loaded successfully
+2024-06-14 13:11:57,099 - INFO - Searching for: engineering College near me
+2024-06-14 13:12:01,517 - INFO - Search results loaded successfully
+2024-06-14 13:12:01,847 - INFO - Name: Velammal Engineering College, No. of Reviews: N/A, Phone: N/A, Rating: 3.6
+2024-06-14 13:12:04,182 - INFO - Name: Panimalar Engineering College ( Chennai City Campus), No. of Reviews: N/A, Phone: N/A, Rating: 3.8
+2024-06-14 13:12:06,358 - INFO - Name: Meenakshi Sundararajan Engineering College, No. of Reviews: N/A, Phone: N/A, Rating: 4.3
+2024-06-14 13:12:08,361 - INFO - Data saved to CSV file
+2024-06-14 13:13:03,597 - INFO - Exiting...
+2024-06-14 13:13:05,772 - INFO - Browser closed
+2024-06-14 13:13:50,065 - INFO - Opening Google Maps...
+2024-06-14 13:13:53,067 - INFO - Google Maps loaded successfully
+2024-06-14 13:13:58,926 - INFO - Searching for: Cit college 
+2024-06-14 13:14:04,964 - INFO - Search results loaded successfully
+2024-06-14 13:14:05,083 - INFO - Name: Chennai Institute of Technology, No. of Reviews: N/A, Phone: N/A, Rating: 4.3
+2024-06-14 13:14:07,244 - INFO - Name: CIT, No. of Reviews: N/A, Phone: N/A, Rating: N/A
+2024-06-14 13:14:09,246 - INFO - Data saved to CSV file
+2024-06-14 13:14:45,332 - INFO - Searching for: engineering colleges best
+2024-06-14 13:14:45,601 - INFO - Search results loaded successfully
+2024-06-14 13:14:45,677 - INFO - Name: Chennai Institute of Technology, No. of Reviews: N/A, Phone: N/A, Rating: 4.3
+2024-06-14 13:14:47,802 - INFO - Name: CIT, No. of Reviews: N/A, Phone: N/A, Rating: N/A
+2024-06-14 13:14:49,804 - INFO - Data saved to CSV file
+2024-06-14 13:15:27,144 - INFO - Exiting...
+2024-06-14 13:15:29,369 - INFO - Browser closed
+2024-06-14 18:57:54,184 - INFO - Opening Google Maps...
+2024-06-14 18:57:56,123 - INFO - Google Maps loaded successfully
+2024-06-14 18:58:16,079 - INFO - Searching for: best colleges in usa
+2024-06-14 18:58:20,602 - INFO - Search results loaded successfully
+2024-06-14 18:58:20,766 - INFO - Name: Harvard University, No. of Reviews: N/A, Phone: N/A, Rating: 4.5
+2024-06-14 18:58:22,861 - INFO - Name: Stanford University, No. of Reviews: N/A, Phone: N/A, Rating: 4.7
+2024-06-14 18:58:25,301 - INFO - Name: Princeton University, No. of Reviews: N/A, Phone: N/A, Rating: 4.7
+2024-06-14 18:58:27,330 - INFO - Data saved to CSV file
+2024-06-14 18:59:02,346 - INFO - Exiting...
+2024-06-14 18:59:04,682 - INFO - Browser closed
+2024-06-14 19:00:06,482 - INFO - Opening Google Maps...
+2024-06-14 19:00:08,061 - INFO - Google Maps loaded successfully
+2024-06-14 19:00:21,902 - INFO - Searching for: fun places in tamil nadu
+2024-06-14 19:00:26,415 - INFO - Search results loaded successfully
+2024-06-14 19:00:26,729 - INFO - Name: KIDZ JUNGLE PARK, No. of Reviews: N/A, Phone: N/A, Rating: 4.6
+2024-06-14 19:00:28,936 - INFO - Name: Fun City -Virtuous Mall ,Chennai - Kids Game Zone & Indoor Play Zone, No. of Reviews: N/A, Phone: N/A, Rating: 4.2
+2024-06-14 19:00:31,020 - INFO - Name: Tiny Adventure, No. of Reviews: N/A, Phone: N/A, Rating: 4.6
+2024-06-14 19:00:33,022 - INFO - Data saved to CSV file
+2024-06-14 19:01:39,150 - INFO - Exiting...
+2024-06-14 19:01:41,341 - INFO - Browser closed
+2024-06-15 11:59:05,905 - WARNING - There was an error managing chromedriver (error sending request for url (https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json)); using driver found in the cache
+2024-06-15 11:59:05,905 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-06-15 11:59:09,857 - INFO - Opening Google Maps...
+2024-06-15 12:21:49,889 - INFO - Opening Google Maps...
+2024-06-15 12:21:54,467 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=125.0.6422.176)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6123A1F52+60322]
+	(No symbol) [0x00007FF61231CEC9]
+	(No symbol) [0x00007FF6121D7EBA]
+	(No symbol) [0x00007FF6121AD5A5]
+	(No symbol) [0x00007FF6122536B7]
+	(No symbol) [0x00007FF61226B331]
+	(No symbol) [0x00007FF61224BFC3]
+	(No symbol) [0x00007FF612219617]
+	(No symbol) [0x00007FF61221A211]
+	GetHandleVerifier [0x00007FF6126B94AD+3301629]
+	GetHandleVerifier [0x00007FF6127036D3+3605283]
+	GetHandleVerifier [0x00007FF6126F9450+3563680]
+	GetHandleVerifier [0x00007FF612454326+790390]
+	(No symbol) [0x00007FF61232750F]
+	(No symbol) [0x00007FF612323404]
+	(No symbol) [0x00007FF612323592]
+	(No symbol) [0x00007FF612312F9F]
+	BaseThreadInitThunk [0x00007FFF22E3257D+29]
+	RtlUserThreadStart [0x00007FFF24D8AA48+40]
+
+2024-06-15 12:22:43,932 - INFO - Opening Google Maps...
+2024-06-15 12:22:46,692 - INFO - Google Maps loaded successfully
+2024-06-15 12:22:55,176 - INFO - Searching for: theme parks in chennai
+2024-06-15 12:22:57,118 - INFO - Search results loaded successfully
+2024-06-15 12:22:57,373 - INFO - Name: VGP Universal Kingdom, No. of Reviews: N/A, Phone: N/A, Rating: 4.0
+2024-06-15 12:22:59,460 - INFO - Name: Queensland Amusement Park, No. of Reviews: N/A, Phone: N/A, Rating: 4.0
+2024-06-15 12:23:01,550 - INFO - Name: Snow Kingdom (Chennai), No. of Reviews: N/A, Phone: N/A, Rating: 4.6
+2024-06-15 12:23:03,551 - INFO - Data saved to CSV file
+2024-06-15 12:23:15,042 - INFO - Exiting...
+2024-06-15 12:23:17,201 - INFO - Browser closed
+2024-06-15 21:27:37,435 - INFO - Opening Google Maps...
+2024-06-15 21:27:39,573 - INFO - Google Maps loaded successfully
+2024-06-15 21:27:53,499 - INFO - Searching for: libraries in chennai
+2024-06-15 21:27:55,545 - INFO - Search results loaded successfully
+2024-06-15 21:27:55,763 - INFO - Name: Periyar Nagar Public Library, No. of Reviews: N/A, Phone: N/A, Rating: 4.6
+2024-06-15 21:27:57,858 - INFO - Name: Branch Library, No. of Reviews: N/A, Phone: N/A, Rating: 3.9
+2024-06-15 21:28:00,155 - INFO - Name: JOY OF BOOKS Library, No. of Reviews: N/A, Phone: N/A, Rating: 4.9
+2024-06-15 21:28:02,160 - INFO - Data saved to CSV file
+2024-06-15 21:28:36,115 - INFO - Exiting...
+2024-06-15 21:28:38,392 - INFO - Browser closed
+2024-06-17 12:48:53,445 - INFO - Opening Google Maps...
+2024-06-17 12:48:55,849 - INFO - Google Maps loaded successfully
+2024-06-17 12:49:13,082 - INFO - Searching for: hospitals in chennai
+2024-06-17 12:49:15,806 - INFO - Search results loaded successfully
+2024-06-17 12:49:16,173 - INFO - Name: Niranjana Hospital, Address: 4.0(129), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 12:49:18,389 - INFO - Name: Meridian Hospital, Address: 4.5(733), Phone: N/A, Rating: 4.5, Reviews: N/A
+2024-06-17 12:49:20,499 - INFO - Name: Retteri Kumaran Hospital, Address: 4.4(435), Phone: N/A, Rating: 4.4, Reviews: N/A
+2024-06-17 12:49:22,541 - INFO - Data saved to CSV file
+2024-06-17 12:50:13,225 - INFO - Exiting...
+2024-06-17 12:50:15,404 - INFO - Browser closed
+2024-06-17 12:51:14,276 - INFO - Opening Google Maps...
+2024-06-17 12:51:16,357 - INFO - Google Maps loaded successfully
+2024-06-17 12:51:27,704 - INFO - Searching for: best teaching school in chennai
+2024-06-17 12:51:31,418 - INFO - Search results loaded successfully
+2024-06-17 12:51:31,805 - INFO - Name: Aachi Global International | CAMBRIDGE School, Address: 4.5(168), Phone: N/A, Rating: 4.5, Reviews: N/A
+2024-06-17 12:51:33,909 - INFO - Name: Greenfield Chennai International School, Address: 4.0(86), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 12:51:36,481 - INFO - Name: Chinmaya Vidyalaya Senior Secondary School, Address: 4.1(206), Phone: N/A, Rating: 4.1, Reviews: N/A
+2024-06-17 12:51:38,483 - INFO - Data saved to CSV file
+2024-06-17 12:52:51,268 - INFO - Exiting...
+2024-06-17 12:52:53,547 - INFO - Browser closed
+2024-06-17 13:22:02,524 - INFO - Opening Google Maps...
+2024-06-17 13:22:04,512 - INFO - Google Maps loaded successfully
+2024-06-17 13:22:22,141 - INFO - Searching for: schools near me
+2024-06-17 13:22:29,163 - INFO - Search results loaded successfully
+2024-06-17 13:22:29,659 - INFO - Name: Velammal New Gen Kids School (VNGK) Periyar Nagar, Address: 4.5(2), Phone: N/A, Rating: 4.5, Reviews: N/A
+2024-06-17 13:22:32,285 - INFO - Name: Arise 'n' Shine International Preschool Periyar Nagar, Address: 4.9(74), Phone: N/A, Rating: 4.9, Reviews: N/A
+2024-06-17 13:22:34,388 - INFO - Name: Radiance Matriculation Hr Sec School, Address: 4.1(51), Phone: N/A, Rating: 4.1, Reviews: N/A
+2024-06-17 13:22:36,393 - INFO - Data saved to CSV file
+2024-06-17 13:23:55,830 - INFO - Exiting...
+2024-06-17 13:23:58,132 - INFO - Browser closed
+2024-06-17 13:28:53,241 - INFO - Opening Google Maps...
+2024-06-17 13:28:56,524 - INFO - Google Maps loaded successfully
+2024-06-17 13:29:04,210 - INFO - Searching for: parks in chennai
+2024-06-17 13:29:08,291 - INFO - Search results loaded successfully
+2024-06-17 13:29:08,477 - INFO - Name: Chennai Corporation Park- Periyar Nagar, Address: 4.0(481), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 13:29:10,776 - INFO - Name: Bougainvillea Park, Address: 4.3(4,239), Phone: N/A, Rating: 4.3, Reviews: N/A
+2024-06-17 13:29:12,886 - INFO - Name: MK Stalin Pond Park, Address: 4.4(604), Phone: N/A, Rating: 4.4, Reviews: N/A
+2024-06-17 13:29:14,928 - ERROR - An error occurred: [Errno 13] Permission denied: 'companies.csv'
+2024-06-17 13:29:17,331 - INFO - Browser closed
+2024-06-17 13:29:25,085 - INFO - Opening Google Maps...
+2024-06-17 13:29:27,559 - INFO - Google Maps loaded successfully
+2024-06-17 13:29:32,861 - INFO - Searching for: parks in chennai
+2024-06-17 13:29:35,025 - INFO - Search results loaded successfully
+2024-06-17 13:29:35,259 - INFO - Name: Chennai Corporation Park- Periyar Nagar, Address: 4.0(481), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 13:29:37,861 - INFO - Name: MK Stalin Pond Park, Address: 4.4(604), Phone: N/A, Rating: 4.4, Reviews: N/A
+2024-06-17 13:29:39,966 - INFO - Name: Bougainvillea Park, Address: 4.3(4,239), Phone: N/A, Rating: 4.3, Reviews: N/A
+2024-06-17 13:29:41,967 - ERROR - An error occurred: [Errno 13] Permission denied: 'companies.csv'
+2024-06-17 13:29:44,386 - INFO - Browser closed
+2024-06-17 13:32:27,230 - INFO - Opening Google Maps...
+2024-06-17 13:32:29,215 - INFO - Google Maps loaded successfully
+2024-06-17 13:32:36,737 - INFO - Searching for: theme parks in chennai
+2024-06-17 13:32:41,345 - INFO - Search results loaded successfully
+2024-06-17 13:32:41,508 - INFO - Name: VGP Universal Kingdom, Address: 4.0(37,220), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 13:32:43,878 - INFO - Name: Queensland Amusement Park, Address: 4.0(30,919), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 13:32:46,157 - INFO - Name: MGM Dizzee World, Address: 4.0(21,928), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 13:32:48,160 - INFO - Data saved to CSV file
+2024-06-17 13:33:16,054 - INFO - Exiting...
+2024-06-17 13:33:18,415 - INFO - Browser closed
+2024-06-17 14:09:41,523 - INFO - Opening Google Maps...
+2024-06-17 14:09:43,319 - INFO - Google Maps loaded successfully
+2024-06-17 14:09:56,383 - INFO - Searching for: restaurants in chennai
+2024-06-17 14:10:00,685 - INFO - Search results loaded successfully
+2024-06-17 14:10:00,948 - INFO - Name: Royal Rosewater Restaurant, Address: 4.0(4,307)   \u20b9\u20b9\u20b9, Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-06-17 14:10:03,352 - INFO - Name: Savoury Sea Shell, Address: 4.1(15,454)   \u20b9\u20b9\u20b9, Phone: N/A, Rating: 4.1, Reviews: N/A
+2024-06-17 14:10:05,822 - INFO - Name: On DE Roof Restaurant (chennai), Address: 4.2(2,444)   \u20b9\u20b9, Phone: N/A, Rating: 4.2, Reviews: N/A
+2024-06-17 14:10:07,827 - ERROR - An error occurred: [Errno 13] Permission denied: 'companies.csv'
+2024-06-17 14:10:10,300 - INFO - Browser closed
+2024-06-17 14:10:27,510 - INFO - Opening Google Maps...
+2024-06-17 14:10:30,267 - INFO - Google Maps loaded successfully
+2024-06-17 14:10:35,489 - INFO - Searching for: hotels 
+2024-06-17 14:10:39,945 - INFO - Search results loaded successfully
+2024-06-17 14:10:40,216 - INFO - Name: Hotel SRM Grands, Address: 3.8(3,109), Phone: N/A, Rating: 3.8, Reviews: N/A
+2024-06-17 14:10:42,430 - INFO - Name: GATEWAY ROOMS, Address: 3.4(304), Phone: N/A, Rating: 3.4, Reviews: N/A
+2024-06-17 14:10:44,732 - INFO - Name: Hotel SRI VALLI PARK, Address: 3.8(607), Phone: N/A, Rating: 3.8, Reviews: N/A
+2024-06-17 14:10:46,734 - INFO - Data saved to CSV file
+2024-06-17 14:11:09,889 - INFO - Exiting...
+2024-06-17 14:11:12,188 - INFO - Browser closed
+2024-06-17 14:13:16,492 - INFO - Opening Google Maps...
+2024-06-17 14:13:20,869 - INFO - Google Maps loaded successfully
+2024-06-17 14:13:31,701 - INFO - Searching for: five star hotels
+2024-06-17 14:13:36,296 - INFO - Search results loaded successfully
+2024-06-17 14:13:36,597 - INFO - Name: B8 Hotel, Address: 4.5(1,754), Phone: N/A, Rating: 4.5, Reviews: N/A
+2024-06-17 14:13:39,065 - INFO - Name: ecrvillas, Address: 4.9(215), Phone: N/A, Rating: 4.9, Reviews: N/A
+2024-06-17 14:13:41,461 - INFO - Name: Sheraton Grande Hotel Chennai, Address: 4.8(1,761), Phone: N/A, Rating: 4.8, Reviews: N/A
+2024-06-17 14:13:43,470 - INFO - Data saved to CSV file
+2024-06-17 14:14:14,198 - INFO - Exiting...
+2024-06-17 14:14:16,518 - INFO - Browser closed
+2024-08-08 21:00:16,371 - INFO - Opening Google Maps...
+2024-08-08 21:00:17,820 - INFO - Google Maps loaded successfully
+2024-08-08 21:00:24,290 - INFO - Searching for: chennai schools
+2024-08-08 21:00:28,246 - INFO - Search results loaded successfully
+2024-08-08 21:00:28,362 - INFO - Name: KRM Public School, Address: 4.2(279), Phone: N/A, Rating: 4.2, Reviews: N/A
+2024-08-08 21:00:30,433 - INFO - Name: Narayana e-Techno School-Kolathur, Address: 4.5(318), Phone: N/A, Rating: 4.5, Reviews: N/A
+2024-08-08 21:00:32,633 - INFO - Name: Grace Matriculation School, Address: 4.0(37), Phone: N/A, Rating: 4.0, Reviews: N/A
+2024-08-08 21:00:34,634 - INFO - Data saved to CSV file
+2024-08-08 21:00:59,652 - INFO - Exiting...
+2024-08-08 21:01:01,725 - INFO - Browser closed
+2025-06-27 15:27:48,982 - INFO - Opening Google Maps...
+2025-06-27 15:28:02,728 - INFO - Google Maps loaded successfully
+2025-06-27 15:31:38,902 - INFO - Searching for: chennai schools
+2025-06-27 15:31:39,541 - INFO - Search results loaded successfully
+2025-06-27 15:31:39,971 - INFO - Name: Madras Global School Anna Nagar West - Pre School, Recognized by School Education Department of Tamilnadu, Address: 4.9(60), Phone: N/A, Rating: 4.9, Reviews: N/A
+2025-06-27 15:31:42,006 - ERROR - An error occurred: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=132.0.6834.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7554202F5+28725]
+	(No symbol) [0x00007FF755382AE0]
+	(No symbol) [0x00007FF75521510A]
+	(No symbol) [0x00007FF75521BD70]
+	(No symbol) [0x00007FF75521EABC]
+	(No symbol) [0x00007FF75521EB8F]
+	(No symbol) [0x00007FF755268C85]
+	(No symbol) [0x00007FF7552695FC]
+	(No symbol) [0x00007FF75525C0BC]
+	(No symbol) [0x00007FF75528FFEF]
+	(No symbol) [0x00007FF75525BF86]
+	(No symbol) [0x00007FF7552901C0]
+	(No symbol) [0x00007FF7552B0181]
+	(No symbol) [0x00007FF75528FD53]
+	(No symbol) [0x00007FF75525A0E3]
+	(No symbol) [0x00007FF75525B471]
+	GetHandleVerifier [0x00007FF75574F30D+3366989]
+	GetHandleVerifier [0x00007FF7557612F0+3440688]
+	GetHandleVerifier [0x00007FF7557578FD+3401277]
+	GetHandleVerifier [0x00007FF7554EAAAB+858091]
+	(No symbol) [0x00007FF75538E74F]
+	(No symbol) [0x00007FF75538A304]
+	(No symbol) [0x00007FF75538A49D]
+	(No symbol) [0x00007FF755378B69]
+	BaseThreadInitThunk [0x00007FFC582AE8D7+23]
+	RtlUserThreadStart [0x00007FFC58A1C34C+44]
+
+2025-06-27 15:31:44,463 - INFO - Browser closed
+2025-06-27 15:32:10,920 - INFO - Opening Google Maps...
+2025-06-27 15:32:35,410 - ERROR - An error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7554202F5+28725]
+	(No symbol) [0x00007FF755382AE0]
+	(No symbol) [0x00007FF75521510A]
+	(No symbol) [0x00007FF7552693D2]
+	(No symbol) [0x00007FF7552695FC]
+	(No symbol) [0x00007FF7552B3407]
+	(No symbol) [0x00007FF75528FFEF]
+	(No symbol) [0x00007FF7552B0181]
+	(No symbol) [0x00007FF75528FD53]
+	(No symbol) [0x00007FF75525A0E3]
+	(No symbol) [0x00007FF75525B471]
+	GetHandleVerifier [0x00007FF75574F30D+3366989]
+	GetHandleVerifier [0x00007FF7557612F0+3440688]
+	GetHandleVerifier [0x00007FF7557578FD+3401277]
+	GetHandleVerifier [0x00007FF7554EAAAB+858091]
+	(No symbol) [0x00007FF75538E74F]
+	(No symbol) [0x00007FF75538A304]
+	(No symbol) [0x00007FF75538A49D]
+	(No symbol) [0x00007FF755378B69]
+	BaseThreadInitThunk [0x00007FFC582AE8D7+23]
+	RtlUserThreadStart [0x00007FFC58A1C34C+44]
+
+2025-06-27 15:32:37,844 - INFO - Browser closed
+2025-06-27 15:36:18,280 - INFO - Opening Google Maps...
+2025-06-27 15:36:23,059 - INFO - Google Maps loaded successfully
+2025-06-27 15:36:31,724 - INFO - Searching for: chennai
+2025-06-27 15:36:52,697 - ERROR - Search timed out.
+2025-06-27 15:39:37,744 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/345dc1f4473bdcfabf2c8dcdf421df35
+2025-06-27 15:39:41,869 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000265EB6CDA10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/345dc1f4473bdcfabf2c8dcdf421df35
+2025-06-27 15:39:45,960 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000265EB6CE410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/345dc1f4473bdcfabf2c8dcdf421df35
+2025-06-27 15:39:50,046 - INFO - Browser closed
+2025-07-02 18:25:21,071 - INFO - Opening Google Maps...
+2025-07-02 18:25:27,458 - INFO - Google Maps loaded successfully
+2025-07-02 18:32:41,327 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/91b8aa1bd6dba0a278cd7f3b3801f487
+2025-07-02 18:32:45,476 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212329FCF10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/91b8aa1bd6dba0a278cd7f3b3801f487
+2025-07-02 18:32:49,529 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000212329FDD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/91b8aa1bd6dba0a278cd7f3b3801f487
+2025-07-02 18:32:53,589 - INFO - Browser closed
